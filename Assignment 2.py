@@ -27,3 +27,6 @@ if percentage>0 and percentage<100:
         print("You are Failed")
 
 
+arr=[1,2,3,4,5,6]
+arr.insert(1,54)
+print(arr[2:])
